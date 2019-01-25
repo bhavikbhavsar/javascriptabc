@@ -15,19 +15,7 @@ function Header({ config }) {
   return (
     <Container>
       <Wrapper>
-        {userConfig.showHeaderImage && (
-          <HeaderImage/>
-        )}
-        //<H1><Link to="/">{author}</Link></H1>
-        //<P>{description}</P>
-        //{social &&
-        //  <Social
-        //    website={social.website}
-        //    github={social.github}
-        //    twitter={social.twitter}
-        //    linkedin={social.linkedin}
-        //  />
-        //}
+        {userConfig.showHeaderImage && (<HeaderImage/>)}
       </Wrapper>
     </Container> 
   );
