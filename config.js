@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Javascriptabc.com', // Required
-  author: 'Bhavik Bhavsar', // Required
-  description: 'Web development begineers coach',
+  author: 'Javascriptabc', // Required
+  description: 'Javascriptabc.com - A begineer\'s coach',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
