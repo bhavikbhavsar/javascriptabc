@@ -3,7 +3,7 @@ module.exports = {
   author: 'Javascriptabc', // Required
   description: 'Javascriptabc.com - A begineer\'s coach',
   primaryColor: '#3498db', // Required
-  showHeaderImage: true,
+  showHeaderImage: false,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
